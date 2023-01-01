@@ -1,7 +1,7 @@
 ---
 title: Fusion Cooking by Lexie
 subtitle: Best of both worlds 
-featured_image: /images/Lexie_Lin_photos/Fusion Cooking/IMG_9369.JPG
+featured_image: /images/Lexie_Lin_photos/Fusion Cooking/IMG_9375.JPG
 ---
 <div class="gallery" data-columns="3">
     <img src="/images/Lexie_Lin_photos/Fusion Cooking/IMG_9391.jpg">"
