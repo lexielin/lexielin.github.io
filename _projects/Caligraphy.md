@@ -1,7 +1,7 @@
 ---
 title: Caligraphy by Lexie
-subtitle: Arts of lines, strokes and embellishments
-featured_image: /images/Lexie_Lin_photos/Caligraphy/IMG_9379.jpg
+subtitle: Art of lines, strokes and embellishments
+featured_image: /images/Lexie_Lin_photos/Caligraphy/IMG_9357.jpg
 ---
 <div class="gallery" data-columns="3">
     <img src="/images/Lexie_Lin_photos/Caligraphy/IMG_9379.jpg">"

@@ -3,7 +3,6 @@ layout: default
 title: Lexie's Gallery
 description: Lexie Lin's Gallery
 ---
-
 <section class="listing">
 
 	<div class="content-wrap listing-wrap">
@@ -16,6 +15,8 @@ description: Lexie Lin's Gallery
 
 				<div class="listing-item__image">
 					<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+					<h2 class="listing-item__title">{{ project.title }}</h2>
+						<p class="listing-item__subtitle">{{ project.subtitle }}</p>
 				</div>
 
 				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">

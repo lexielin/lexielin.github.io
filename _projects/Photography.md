@@ -1,7 +1,7 @@
 ---
 title: Photography by Lexie
 subtitle: Photos are stills from the movie we called "life"
-featured_image: /images/Lexie_Lin_photos/Photography/IMG_9420.JPG
+featured_image: /images/Lexie_Lin_photos/Photography/IMG_9324.JPG
 ---
 <div class="gallery" data-columns="3">
     <img src="/images/Lexie_Lin_photos/Photography/IMG_9420.JPG">"

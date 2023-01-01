@@ -1,7 +1,7 @@
 ---
 title: Painting by Lexie
 subtitle: I capture the beautiful specific details in life 
-featured_image: /images/Lexie_Lin_photos/Painting/IMG_9380.JPG
+featured_image: /images/Lexie_Lin_photos/Painting/IMG_0869.PNG
 ---
 <div class="gallery" data-columns="3">
     <img src="/images/Lexie_Lin_photos/Painting/IMG_9346.jpg">"
