@@ -68,11 +68,11 @@ color_settings:
   text_dark_color: '#E2DED0'
   text_medium_color: '#E2DED0'
   text_light_color: '#E2DED0'
-  accent_color: '#4ecdc4'
-  border_color: '#dddddd'
-  overlay_background_color: '#4ecdc4'
-  overlay_text_color: '#ffffff'
-  overlay_accent_color: '#2A2F36'
+  accent_color: '#746C70'
+  border_color: '#746C70'
+  overlay_background_color: '#4E4F50'
+  overlay_text_color: '#E2DED0'
+  overlay_accent_color: '#746C70'
   error_color: '#D64541'
 
 font_settings:
