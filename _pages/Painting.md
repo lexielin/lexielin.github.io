@@ -34,4 +34,7 @@ featured_image: /images/Lexie_Lin_photos/Painting/IMG_0869.PNG
     <img src="/images/Lexie_Lin_photos/Painting/Untitled_Artwork.PNG">"
     <img src="/images/Lexie_Lin_photos/Painting/IMG_9349.jpg">"
     <img src="/images/Lexie_Lin_photos/Painting/IMG_9348.jpg">"
+    <img src="/images/Lexie_Lin_photos/Painting/IMG_0773.png">"
+    <img src="/images/Lexie_Lin_photos/Painting/IMG_0774.png">"
+    <img src="/images/Lexie_Lin_photos/Painting/IMG_0775.png">"
 </div>
